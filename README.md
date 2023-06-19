@@ -18,7 +18,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ## Instalação 
 
 **Linguagem**: Javascript<br>
-Como executar o projeto:
+**Como executar o projeto**:
 * Clone o repositório para o seu ambiente local.
 * Abra o arquivo index.html em um navegador web.
 Agora você pode utilizar a aplicação para adicionar itens à lista de compras e observar a ordenação alfabética automática dos itens.
